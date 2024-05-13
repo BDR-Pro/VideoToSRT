@@ -6,7 +6,7 @@ This Python script extracts audio from video files and uses Google's speech reco
 
 ## Note
 
-To get more accurate results change the voice recognition model 
+To get more accurate results change the voice recognition model
 
 ## Prerequisites
 
